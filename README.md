@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://giphy.com/clips/originals-hacker-desi-hackette-L7Lm7JSWSRkW5Vvjjg" alt="gif" width="200"/>
+    <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" alt="gif" width="200"/>
     <h1 align="center"> Hi there 👋, I'm Veronica Castro </h1>
     <h3 align="center">I'm a Full Stack Software Developer passionate about software development and technological advances. I'm a self-taught person, persevering and with ease to adapt to new changes, these abilities allow me to keep myself in constant learning and develop projects meeting the needs and requirements of the client or company.</h3>
 </div>
