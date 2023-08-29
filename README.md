@@ -1,4 +1,4 @@
-### Hi there 👋, Veronica Castro
+### Hi there 👋, I'm Veronica Castro
 #### Full Stack Development
 ![Full Stack Development](https://previews.123rf.com/images/teguhjatipras/teguhjatipras2009/teguhjatipras200900010/154734047-software-developer-concept-with-icon-set-template-banner-with-modern-blue-color-style.jpg)
 
