@@ -6,6 +6,9 @@ I'm a Full Stack Software Developer passionate about software development and te
 
 Skills: PYTHON / REACT / JS / HTML / CSS
 
+- 🔭 I’m currently working on my own 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeronicaCastroMurillo)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VeronicaCastroMurillo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/veronicacastro2311/)  
+
+
