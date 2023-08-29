@@ -8,7 +8,7 @@
     
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VeronicaCastroMurillo) 
     
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/veronicacastro2311/)      
+<a href='https://www.linkedin.com/in/veronicacastro2311/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=LinkedIn&logoColor=2F48D7&labelColor=FFFFFF&color=2F48D7'/></a>    
 
 </div>
 
