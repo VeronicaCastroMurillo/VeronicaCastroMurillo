@@ -25,11 +25,13 @@
       </div>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeronicaCastroMurillo)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 My Stats :
 
-Skills: PYTHON / REACT / JS / HTML / CSS
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on my own 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
