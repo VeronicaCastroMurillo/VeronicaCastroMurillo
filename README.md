@@ -23,13 +23,7 @@
       </div>
 </div>
 
-### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VeronicaCastroMurillo&theme=onedark)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VeronicaCastroMurillo&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeronicaCastroMurillo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
