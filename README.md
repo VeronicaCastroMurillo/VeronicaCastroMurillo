@@ -6,8 +6,6 @@
 
 <div id="badges" align="center">
 <a href='https://www.linkedin.com/in/veronicacastro2311/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=LinkedIn&logoColor=2F48D7&labelColor=FFFFFF&color=2F48D7'/></a>    
-<a href='https://twitter.com/Vernica42867651' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-100000?style=flat&logo=Twitter&logoColor=FFFFFF&labelColor=4FF7F1&color=FFFFFF'/></a>
-<a href='https://www.facebook.com/profile.php?id=100010491004506' target="_blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=flat&logo=Facebook&logoColor=2D06D7&labelColor=FFFFFF&color=2D06D7'/></a>
 </div>
 
 <div align="left">
